@@ -24,7 +24,7 @@ export default function AddTodos(props) {
         onPress={() => {
           props.submitHandler(text);
         }}
-        title="Add To-do"
+        title="Submit"
         color="coral"
       />
     </View>
